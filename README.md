@@ -1,0 +1,2 @@
+# StaticPage
+Static wed display
